@@ -5,5 +5,6 @@
 
 ## Details of the Uploads
 ### Funnel Case Study Data - Raw Data File - Excel File - Raw Data File
+### Swiggy Business Case Study - Doc File - Details of the Case study
 ### Swiggy Business Case Analysis - Excel File - Complete Analysis of the Case Study (including Dashboard)
 ### Swiggy's Funnel Business Case - Analysis - PDF File - Complete analysis report including day wise insights.
